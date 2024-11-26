@@ -3,6 +3,7 @@
 This project focuses on implementing key image processing techniques using Python, NumPy, and Pandas. The project involves reshaping, flattening, and analyzing sample images, culminating in model accuracy evaluation to ensure data integrity and performance.
 
 **Features**
+
 **Image Manipulation:** 
 Operations include reshaping and flattening images for preprocessing.
 
@@ -18,8 +19,9 @@ Enhanced model prediction accuracy by 85% through optimized data processing.
 
 **Libraries:** NumPy, Pandas
 
-**Project Workflow
-Input Images:** 
+**Project Workflow**
+
+**Input Images:** 
 Load and preprocess sample images.
 
 **Image Reshaping:**
