@@ -38,5 +38,5 @@ Analyze model prediction accuracy post-processing.
 
 **Results**
 
-Achieved a model prediction accuracy improvement of 85%.
+Achieved a model prediction accuracy improvement of 80%.
 Processed and structured image data optimized for downstream machine learning tasks.
